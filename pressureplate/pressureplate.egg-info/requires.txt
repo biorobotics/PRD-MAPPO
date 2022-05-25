@@ -1,0 +1,6 @@
+numpy
+gym>=0.15
+pyglet
+
+[test]
+pytest
