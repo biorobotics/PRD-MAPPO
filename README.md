@@ -9,7 +9,7 @@ It is configured to be run in conjunction with the following environments:
 - [Pressure Plate (PP)](https://github.com/uoe-agents/pressureplate)
 - [MultiAgent Gym (MA-GYM)](https://github.com/koulanurag/ma-gym)
 
-Alert: Please note that the environments listed above are customised and hence one should use the environment directories provided in the above codebase
+Alert: Please note that the environments listed above are customised and hence one should use the environment directories provided in the above codebase instead
 
 
 ## Installation
