@@ -8,7 +8,8 @@ It is configured to be run in conjunction with the following environments:
 - [Multi-Agent Particle Environments (MPE)](https://github.com/openai/multiagent-particle-envs).
 - [Pressure Plate (PP)](https://github.com/uoe-agents/pressureplate)
 - [MultiAgent Gym (MA-GYM)](https://github.com/koulanurag/ma-gym)
-Note: Please note that the environments listed above are customised and hence one should use the environment directories provided in the above codebase
+
+Alert: Please note that the environments listed above are customised and hence one should use the environment directories provided in the above codebase
 
 
 ## Installation
@@ -21,7 +22,7 @@ Note: Please note that the environments listed above are customised and hence on
 
 - Known dependencies for MA-GYM: Python (3.6+), OpenAI gym (0.19.0), torch (1.11.0+cu102), numpy (1.22.3)
 
-## Core training parameters
+## Core training and environment parameters
 
 You can find these parameters in the `main.py` file for all the environments.
 
